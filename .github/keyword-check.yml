@@ -1,0 +1,8 @@
+keyword1: "test1"
+keyword2:
+  - string1
+  - string2
+  - string3
+  - string4
+  - string5
+  - string6
